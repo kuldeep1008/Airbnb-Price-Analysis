@@ -29,9 +29,8 @@ Analysis of 4,800 Airbnb listings across 10 London neighbourhoods to identify ke
 - `charts/` — All visualisations
 
 ## Charts
-![Price by Neighbourhood](charts/chart1_price_by_neighbourhood.png)
-![Price by Room Type](charts/chart2_price_by_room_type.png)
-![Price by Bedrooms](charts/chart3_price_by_bedrooms.png)
-![Price Distribution](charts/chart4_price_distribution.png)
-![Superhost vs Regular](charts/chart5_superhost_premium.png)
-![Undervalued Listings](charts/chart6_undervalued_listings.png)
+![Price by Neighbourhood](airbnb_project/charts/chart1_price_by_neighbourhood.png)
+![Price by Room Type](airbnb_project/charts/chart2_price_by_room_type.png)
+![Price by Bedrooms](airbnb_project/charts/chart3_price_by_bedrooms.png)
+![Price Distribution](airbnb_project/charts/chart4_price_distribution.png)
+![Superhost vs Regular](airbnb_project/charts/chart5_superhost_premium.png)
